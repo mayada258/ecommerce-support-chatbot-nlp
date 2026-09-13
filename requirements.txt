@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+datasets
+sentence-transformers
+transformers
+torch
+qdrant-client
+chromadb
+faiss-cpu
+groq
+flask
+fastapi
+uvicorn
+python-dotenv
+jupyter

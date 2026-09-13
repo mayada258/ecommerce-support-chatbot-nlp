@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Data (usually large, shouldn't be pushed to GitHub)
+data/*
+!data/.gitkeep
+
+# Vector store local files
+*.faiss
+chroma_db/
+qdrant_storage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
